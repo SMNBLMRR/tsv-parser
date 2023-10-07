@@ -29,7 +29,7 @@ Here's how you'd extract and display the information using TsvParser:
 
 ```js
 const { createReadStream } = require("node:fs");
-const TsvParser = require("tsv-parser");
+const TsvParser = require("@smnblmrr/tsv-parser");
 
 let source = createReadStream("data.tsv");
 let data = [];
