@@ -5,13 +5,7 @@
 ## Install
 
 ```console
-$ npm install tsv-parser
-```
-
-Using yarn:
-
-```console
-$ yarn add tsv-parser
+$ npm install @smnblmrr/tsv-parser
 ```
 
 ## Example
