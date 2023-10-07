@@ -20,9 +20,9 @@ Begin by setting up a readable stream to the TSV file you intend to parse. Once 
 Imagine you're working with a TSV file named `data.tsv`. The content might look something like this:
 
 ```
-NAME\tAGE
-Daffy Duck\t24
-Bugs Bunny\t22
+NAME    tAGE
+Daffy Duck  t24
+Bugs Bunny  t22
 ```
 
 Here's how you'd extract and display the information using TsvParser:
