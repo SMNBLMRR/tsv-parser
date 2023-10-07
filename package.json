@@ -1,5 +1,5 @@
 {
-  "name": "tsv-parser",
+  "name": "@smnblmrr/tsv-parser",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
